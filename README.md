@@ -6,3 +6,6 @@ This tweak replaces Spotlight Search on the Home Screen and allows you to easily
 Enjoy!
 
 Follow me on Twitter for Updates: https://twitter.com/princetechn0
+
+
+**Major Thanks to CPDigitalDarkroom for his continuous support :)**
