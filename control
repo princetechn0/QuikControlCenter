@@ -1,0 +1,9 @@
+Package: com.yourcompany.quickcc
+Name: QuickCC
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: princetechn0
+Author: princetechn0
+Section: Tweaks
